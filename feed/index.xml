@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Farid Blog</title>
-	<atom:link href="/https://a7adel.github.io/farid-website/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://a7adel.github.io/farid-website</link>
+	<atom:link href="/a7adel.github.io/farid-website/feed/" rel="self" type="application/rss+xml" />
+	<link>/a7adel.github.io/farid-website</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 31 Jul 2018 07:09:40 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,17 +19,17 @@
 	<generator>https://wordpress.org/?v=4.8.7</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/https://a7adel.github.io/farid-website/2018/07/31/hello-world/</link>
-		<comments>/https://a7adel.github.io/farid-website/2018/07/31/hello-world/#comments</comments>
+		<link>/a7adel.github.io/farid-website/2018/07/31/hello-world/</link>
+		<comments>/a7adel.github.io/farid-website/2018/07/31/hello-world/#comments</comments>
 		<pubDate>Tue, 31 Jul 2018 07:09:40 +0000</pubDate>
 		<dc:creator><![CDATA[Farid]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/https://a7adel.github.io/farid-website/?p=1</guid>
+		<guid isPermaLink="false">/a7adel.github.io/farid-website/?p=1</guid>
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://a7adel.github.io/farid-website/2018/07/31/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>/a7adel.github.io/farid-website/2018/07/31/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
